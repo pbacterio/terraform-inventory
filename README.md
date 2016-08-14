@@ -10,10 +10,10 @@ All the attributes of Terraform instances, are passed to Ansible as host vars.
 Installation
 ------------
 
-Just download the file script `terraform.py` from https://raw.githubusercontent.com/pbacterio/terraform-inventory/terraform.py
-and ensure that has executable permissons.
+Just download the file script `terraform.py` from https://raw.githubusercontent.com/pbacterio/terraform-inventory/master/terraform.py
+and ensure that has executable permissions.
 
-    wget https://raw.githubusercontent.com/pbacterio/terraform-inventory/terraform.py
+    wget https://raw.githubusercontent.com/pbacterio/terraform-inventory/master/terraform.py
     chmod +x terraform.my
 
 
